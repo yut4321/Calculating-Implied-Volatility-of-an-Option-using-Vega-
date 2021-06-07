@@ -1,1 +1,1 @@
-# Calculating-Implied-Volatility-of-an-Option-using-Vega-
+# Calculating-Implied-Volatility-of-an-Option-using-Vega
